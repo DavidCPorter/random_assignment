@@ -1,0 +1,521 @@
+
+ 
+ 
+ 
+ TOTAL NUMBER OF PAPERS ON THE LIST ->  110 
+ 
+ 
+ 
+
+number of students w/ preferences --> 10
+
+
+ MAPPING OF STUDENTS -> PAPER: 
+
+
+
+Sidhant Pani 
+--> 8 assigned papers: 
+ ['SQL: SparkSQL Spark SQL: Relational Data Processing in Spark, Armburst et al, SIGMOD, 2015.', 'Social: FacebookAnalytics Data warehousing and analytics infrastructure at Facebook. Thusoo et. al, SIGMOD, 2010.', 'Social: FacebookPhoto Finding a needle in Haystack: Facebook’s photo storage. Beaver et. al, OSDI, 2010.', 'Storage: GFS The Google File System, Ghemawat et al, SOSP, 2003.', 'Storage: Bigtable Bigtable: A Distributed Storage System for Structured Data. Chang et. al, OSDI, 2006.', 'Search: Google The anatomy of a large-scale hypertextual Web search engine. Brin and Page, Computer Networks and ISDN Systems, 1998.', 'GraphProc: Facebook One Trillion Edges: Graph Processing at Facebook-Scale. Ching et. al, VLDB, 2015.', 'SQL: Hive Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014.'] 
+
+Suboor Jamal 
+--> 8 assigned papers: 
+ ['Serverless: Pocket Pocket: Elastic Ephemeral Storage for Serverless Analytics. Klimovic et. al, OSDI, 2018.', 'RDMA: Databases Accelerating Relational Databases by Leveraging Remote Memory and RDMA. Li et. al, SIGMOD, 2016.', 'Social: FacebookAnalytics Data warehousing and analytics infrastructure at Facebook. Thusoo et. al, SIGMOD, 2010.', 'Execution: LoadBalancing1 Ananta: Cloud Scale Load Balancing. Patel et. al, SIGCOMM, 2013.', 'Storage: MemcachedFacebook Scaling Memcache at Facebook. Nishtala et. al, NSDI, 2013.', 'Social: FacebookPhoto Finding a needle in Haystack: Facebook’s photo storage. Beaver et. al, OSDI, 2010.', 'Serverless: OpenLambda Serverless Computation with OpenLambda. Hendrickson et. al, HotCloud, 2016.', 'Execution: LoadBalancing2 Duet: Cloud Scale Load Balancing with Hardware and Software. Gandhi et. al, SIGCOMM, 2014.'] 
+
+Bhuvan Jain 
+--> 8 assigned papers: 
+ ['Social: Unicorn Unicorn: A System for Searching the Social Graph. Curtiss et. al, VLDB, 2013.', 'SQL: SparkSQL Spark SQL: Relational Data Processing in Spark, Armburst et al, SIGMOD, 2015.', 'Social: FacebookAnalytics Data warehousing and analytics infrastructure at Facebook. Thusoo et. al, SIGMOD, 2010.', 'Storage: GFS The Google File System, Ghemawat et al, SOSP, 2003.', 'Storage: Bigtable Bigtable: A Distributed Storage System for Structured Data. Chang et. al, OSDI, 2006.', 'Search: Google The anatomy of a large-scale hypertextual Web search engine. Brin and Page, Computer Networks and ISDN Systems, 1998.', 'GraphProc: Facebook One Trillion Edges: Graph Processing at Facebook-Scale. Ching et. al, VLDB, 2015.', 'SQL: Hive Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014.'] 
+
+PARIDHI SINGHAL 
+--> 8 assigned papers: 
+ ['Storage: EC-Cache EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding. Rashmi et. al, OSDI, 2016.', 'Execution: Stragglers Reining in the Outliers in Map-Reduce Clusters using Mantri, Ananthanarayanan et al, OSDI, 2010.', 'Scheduling: Packing (Carbyne:) Altruistic Scheduling in Multi-Resource Clusters. TODO', 'Execution: CIEL CIEL: a universal execution engine for distributed data-flow computing. Murray et. al, NSDI, 2011.', 'Storage: Spanner Spanner: Google’s Globally-Distributed Database. Corbett et. al, OSDI, 2012.', 'Storage: MemcachedFacebook Scaling Memcache at Facebook. Nishtala et. al, NSDI, 2013.', 'Storage: FDS Flat Datacenter Storage. Nightingale et. al, OSDI, 2012.', 'Scheduling: Packing (Tetris:) Multi-Resource Packing for Cluster Schedulers, Grandl et al, SIGCOMM, 2014.'] 
+
+Liyuan Chen 
+--> 8 assigned papers: 
+ ['Monitor: Analytics Making Sense of Performance in Data Analytics Frameworks. Ousterhout et. al, NSDI, 2015.', 'Social: Unicorn Unicorn: A System for Searching the Social Graph. Curtiss et. al, VLDB, 2013.', 'Monitor: Scuba Scuba: Diving into Data at Facebook. Abraham et. al, VLDB, 2013.', 'Streaming: FacebookStreaming Realtime Data Processing at Facebook. Chen et. al, SIGMOD, 2016.', 'Serverless: PyWren Occupy the Cloud: Distributed Computing for the 99%, Jonas et al, SoCC, 2017.', 'Storage: Spanner Spanner: Google’s Globally-Distributed Database. Corbett et. al, OSDI, 2012.', 'Social: FacebookPhoto Finding a needle in Haystack: Facebook’s photo storage. Beaver et. al, OSDI, 2010.', 'Serverless: OpenLambda Serverless Computation with OpenLambda. Hendrickson et. al, HotCloud, 2016.'] 
+
+Claudio Montanari 
+--> 8 assigned papers: 
+ ['ML: TPU In-Datacenter Performance Analysis of a Tensor Processing Unit. Jouppi et. al, ISCA, 2017.', 'ResourceNeg: YARN Apache Hadoop YARN: Yet Another Resource Negotiator, Vavilapalli et al, SOCC, 2013.', 'Execution: Flare Flare: Optimizing Apache Spark with Native Compilation for Scale-Up Architectures and Medium-Size Data. Essertel et. al, OSDI, 2018.', 'Storage: MemcachedFacebook Scaling Memcache at Facebook. Nishtala et. al, NSDI, 2013.', 'Video: SVE SVE: Distributed Video Processing at Facebook Scale. Huang et. al, SOSP, 2017.', 'QMS: Kafka Kafka Distributed Messaging System for Log Processing, Kreps et al, NetDB Workshop, 2011. Also read this comparison of widely used Queuing Messaging Processing Systems.', 'Search: Google The anatomy of a large-scale hypertextual Web search engine. Brin and Page, Computer Networks and ISDN Systems, 1998.', 'GraphProc: Facebook One Trillion Edges: Graph Processing at Facebook-Scale. Ching et. al, VLDB, 2015.'] 
+
+Amogh Venkatesh 
+--> 8 assigned papers: 
+ ['ResourceNeg: YARN Apache Hadoop YARN: Yet Another Resource Negotiator, Vavilapalli et al, SOCC, 2013.', 'GraphProc: RDF Fast and Concurrent RDF Queries with RDMA-based Distributed Graph Exploration. Shi et. al, OSDI, 2016.', 'Serverless: OpenLambda Serverless Computation with OpenLambda. Hendrickson et. al, HotCloud, 2016.', 'Storage: Bigtable Bigtable: A Distributed Storage System for Structured Data. Chang et. al, OSDI, 2006.', 'GraphProc: GraphX GraphX: Graph Processing in a Distributed Dataflow Framework, Gonzalez et al, OSDI, 2014.', 'Streaming: Aurora Aurora: a new model and architecture for data stream management. Abadi et. al, VLDB, 2003.', 'ML: Facebook Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective, Hazelwood et. al, HPCA, 2018.', 'Streaming: Dataflow The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing. Akidau et. al, VLDB, 2015.'] 
+
+Simar Gadhoke 
+--> 8 assigned papers: 
+ ['Scheduling: Threads Arachne: Core-Aware Thread Management. Qin et. al, OSDI, 2018.', 'SQL: Impala Impala: A Modern, Open-Source SQL Engine for Hadoop. Kornacker et. al, CIDR, 2015.', 'Scheduling: Re-Planning Dynamic Query Re-Planning using QOOP. Mahajan et. al, OSDI, 2018.', 'Streaming: FacebookStreaming Realtime Data Processing at Facebook. Chen et. al, SIGMOD, 2016.', 'Execution: F2 Fast and Flexible Analytics with F2, Grandl et al, 2017.', 'SQL: SparkSQL Spark SQL: Relational Data Processing in Spark, Armburst et al, SIGMOD, 2015.', 'GeoDistributed: Clarinet Clarinet: WAN-Aware Optimization for Analytics Queries, Viswanathan et al, OSDI, 2016.', 'Execution: Flare Flare: Optimizing Apache Spark with Native Compilation for Scale-Up Architectures and Medium-Size Data. Essertel et. al, OSDI, 2018.'] 
+
+Rishi Raj 
+--> 8 assigned papers: 
+ ['Architecture: Networks Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network, Singh et al., SIGCOMM 2015.', 'Architecture: Network Routing VL2: A Scalable and Flexible Data Center Network, Greenberg et al., SIGCOMM 2009.', 'SQL: Impala Impala: A Modern, Open-Source SQL Engine for Hadoop. Kornacker et. al, CIDR, 2015.', 'Streaming: FacebookStreaming Realtime Data Processing at Facebook. Chen et. al, SIGMOD, 2016.', 'ResourceNeg: YARN Apache Hadoop YARN: Yet Another Resource Negotiator, Vavilapalli et al, SOCC, 2013.', 'Streaming: Storm Storm @Twitter , Toshniwal et al, SIGMOD, 2014.', 'Storage: GFS The Google File System, Ghemawat et al, SOSP, 2003.', 'SQL: Hive Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014.'] 
+
+david porter 
+--> 8 assigned papers: 
+ ['Monitor: Analytics Making Sense of Performance in Data Analytics Frameworks. Ousterhout et. al, NSDI, 2015.', 'ML: TPU In-Datacenter Performance Analysis of a Tensor Processing Unit. Jouppi et. al, ISCA, 2017.', 'Social: Unicorn Unicorn: A System for Searching the Social Graph. Curtiss et. al, VLDB, 2013.', 'Serverless: Pocket Pocket: Elastic Ephemeral Storage for Serverless Analytics. Klimovic et. al, OSDI, 2018.', 'Streaming/Execution: Naiad Naiad: A Timely Dataflow System, Murray et al, SOSP, 2013.', 'Monitor: Consistency Existential Consistency: Measuring and Understanding Consistency at Facebook. Lu et. al, OSDI, 2015.', 'Architecture: Networks Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network, Singh et al., SIGCOMM 2015.', 'Scheduling: Threads Arachne: Core-Aware Thread Management. Qin et. al, OSDI, 2018.'] 
+
+student_0 
+--> 8 assigned papers: 
+ ['Monitor: Analytics Making Sense of Performance in Data Analytics Frameworks. Ousterhout et. al, NSDI, 2015.', 'ML: TPU In-Datacenter Performance Analysis of a Tensor Processing Unit. Jouppi et. al, ISCA, 2017.', 'Serverless: Pocket Pocket: Elastic Ephemeral Storage for Serverless Analytics. Klimovic et. al, OSDI, 2018.', 'Streaming/Execution: Naiad Naiad: A Timely Dataflow System, Murray et al, SOSP, 2013.', 'Monitor: Consistency Existential Consistency: Measuring and Understanding Consistency at Facebook. Lu et. al, OSDI, 2015.', 'Architecture: Networks Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network, Singh et al., SIGCOMM 2015.', 'Scheduling: Threads Arachne: Core-Aware Thread Management. Qin et. al, OSDI, 2018.', 'Monitor: Imbalance Characterizing Load Imbalance in Real-World Networked Caches. Huanag et. al, HotNets, 2014.'] 
+
+student_1 
+--> 8 assigned papers: 
+ ['Streaming/Execution: Naiad Naiad: A Timely Dataflow System, Murray et al, SOSP, 2013.', 'Monitor: Consistency Existential Consistency: Measuring and Understanding Consistency at Facebook. Lu et. al, OSDI, 2015.', 'Monitor: Imbalance Characterizing Load Imbalance in Real-World Networked Caches. Huanag et. al, HotNets, 2014.', 'Monitor: Scuba Scuba: Diving into Data at Facebook. Abraham et. al, VLDB, 2013.', 'Architecture: Network Routing VL2: A Scalable and Flexible Data Center Network, Greenberg et al., SIGCOMM 2009.', 'SQL: Impala Impala: A Modern, Open-Source SQL Engine for Hadoop. Kornacker et. al, CIDR, 2015.', 'Scheduling: Re-Planning Dynamic Query Re-Planning using QOOP. Mahajan et. al, OSDI, 2018.', 'RDMA: Databases Accelerating Relational Databases by Leveraging Remote Memory and RDMA. Li et. al, SIGMOD, 2016.'] 
+
+student_2 
+--> 8 assigned papers: 
+ ['Monitor: Imbalance Characterizing Load Imbalance in Real-World Networked Caches. Huanag et. al, HotNets, 2014.', 'Monitor: Scuba Scuba: Diving into Data at Facebook. Abraham et. al, VLDB, 2013.', 'Architecture: Network Routing VL2: A Scalable and Flexible Data Center Network, Greenberg et al., SIGCOMM 2009.', 'Scheduling: Re-Planning Dynamic Query Re-Planning using QOOP. Mahajan et. al, OSDI, 2018.', 'RDMA: Databases Accelerating Relational Databases by Leveraging Remote Memory and RDMA. Li et. al, SIGMOD, 2016.', 'Streaming: Scaling Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows. Kalavri et. al, OSDI, 2018.', 'GraphProc: PowerGraph PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs, Gonzalez et al, OSDI, 2012.', 'Execution: F2 Fast and Flexible Analytics with F2, Grandl et al, 2017.'] 
+
+student_3 
+--> 8 assigned papers: 
+ ['Streaming: Scaling Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows. Kalavri et. al, OSDI, 2018.', 'GraphProc: PowerGraph PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs, Gonzalez et al, OSDI, 2012.', 'Execution: F2 Fast and Flexible Analytics with F2, Grandl et al, 2017.', 'GraphProc: Pregel Pregel: A System for Large-Scale Graph Processing, Malewicz et al, SIGMOD, 2010.', 'RDMA: Locks Distributed Lock Management with RDMA: Decentralization without Starvation. Yoon et. al, SIGMOD, 2018.', 'GeoDistributed: Clarinet Clarinet: WAN-Aware Optimization for Analytics Queries, Viswanathan et al, OSDI, 2016.', 'AdHoc: TAG TAG: a Tiny AGgregation Service for Ad-Hoc Sensor Networks. Madden et. al, OSDI, 2002.', 'Storage: EC-Cache EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding. Rashmi et. al, OSDI, 2016.'] 
+
+student_4 
+--> 8 assigned papers: 
+ ['Streaming: Scaling Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows. Kalavri et. al, OSDI, 2018.', 'GraphProc: PowerGraph PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs, Gonzalez et al, OSDI, 2012.', 'GraphProc: Pregel Pregel: A System for Large-Scale Graph Processing, Malewicz et al, SIGMOD, 2010.', 'RDMA: Locks Distributed Lock Management with RDMA: Decentralization without Starvation. Yoon et. al, SIGMOD, 2018.', 'GeoDistributed: Clarinet Clarinet: WAN-Aware Optimization for Analytics Queries, Viswanathan et al, OSDI, 2016.', 'AdHoc: TAG TAG: a Tiny AGgregation Service for Ad-Hoc Sensor Networks. Madden et. al, OSDI, 2002.', 'Storage: EC-Cache EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding. Rashmi et. al, OSDI, 2016.', 'Streaming: Gloss Gloss: Seamless Live Reconfiguration and Reoptimization of Stream Programs. Rajadurai et. al, ASPLOS, 2018.'] 
+
+
+
+ MAPPING OF PAPER -> STUDENTS: 
+
+
+Architecture: Networks Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network, Singh et al., SIGCOMM 2015. 
+--> 3 assigned students: 
+ ['Rishi Raj', 'david porter', 'student_0'] 
+
+Architecture: Network Routing VL2: A Scalable and Flexible Data Center Network, Greenberg et al., SIGCOMM 2009. 
+--> 3 assigned students: 
+ ['Rishi Raj', 'student_1', 'student_2'] 
+
+Architecture: Storage The Hadoop Distributed File System, Schvachko et al, MSST, 2010. 
+--> 0 assigned students: 
+ [] 
+
+Storage: GFS The Google File System, Ghemawat et al, SOSP, 2003. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Rishi Raj'] 
+
+Storage: FDS Flat Datacenter Storage. Nightingale et. al, OSDI, 2012. 
+--> 1 assigned students: 
+ ['PARIDHI SINGHAL'] 
+
+Storage: EC-Cache EC-Cache: Load-balanced, Low-latency Cluster Caching with Online Erasure Coding. Rashmi et. al, OSDI, 2016. 
+--> 3 assigned students: 
+ ['PARIDHI SINGHAL', 'student_3', 'student_4'] 
+
+Storage: f4 f4: Facebook’s Warm BLOB Storage System. Muralidhar et. al, OSDI, 2014. 
+--> 0 assigned students: 
+ [] 
+
+Storage: Bigtable Bigtable: A Distributed Storage System for Structured Data. Chang et. al, OSDI, 2006. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Amogh Venkatesh'] 
+
+Storage: Dynamo Dynamo: Amazon’s Highly Available Key-value Store. DeCandia et. al, SOSP, 2007. 
+--> 0 assigned students: 
+ [] 
+
+Storage: Spanner Spanner: Google’s Globally-Distributed Database. Corbett et. al, OSDI, 2012. 
+--> 2 assigned students: 
+ ['PARIDHI SINGHAL', 'Liyuan Chen'] 
+
+Storage: PhotoCache An Analysis of Facebook Photo Caching. Huang et. al, SOSP, 2013. 
+--> 0 assigned students: 
+ [] 
+
+Storage: MemcachedFacebook Scaling Memcache at Facebook. Nishtala et. al, NSDI, 2013. 
+--> 3 assigned students: 
+ ['Suboor Jamal', 'PARIDHI SINGHAL', 'Claudio Montanari'] 
+
+Execution: MR MapReduce Simplified Data Processing on Large Clusters, Dean and Ghemawat, OSDI, 2004. 
+--> 0 assigned students: 
+ [] 
+
+Execution: Dryad Dryad:Distributed Data-Parallel Programs from Sequential Building Blocks. Isard et. al, EuroSys, 2007. 
+--> 0 assigned students: 
+ [] 
+
+Execution: CIEL CIEL: a universal execution engine for distributed data-flow computing. Murray et. al, NSDI, 2011. 
+--> 1 assigned students: 
+ ['PARIDHI SINGHAL'] 
+
+Execution: Stragglers Reining in the Outliers in Map-Reduce Clusters using Mantri, Ananthanarayanan et al, OSDI, 2010. 
+--> 1 assigned students: 
+ ['PARIDHI SINGHAL'] 
+
+Execution: DryadLINQ DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language. Yu et. al, OSDI, 2008. 
+--> 0 assigned students: 
+ [] 
+
+Execution: Volcano Encapsulation of parallelism in the Volcano query processing system. Goetz Graefe, SIGMOD, 1990. 
+--> 0 assigned students: 
+ [] 
+
+Execution: Caching PACMan: Coordinated Memory Caching for Parallel Jobs, Ananthanarayanan et. al, NSDI, 2012. 
+--> 0 assigned students: 
+ [] 
+
+ResourceNeg: YARN Apache Hadoop YARN: Yet Another Resource Negotiator, Vavilapalli et al, SOCC, 2013. 
+--> 3 assigned students: 
+ ['Claudio Montanari', 'Amogh Venkatesh', 'Rishi Raj'] 
+
+ResourceNeg: Borg Borg: Large-scale cluster management at Google with Borg. Verma et. al, EuroSys, 2015. 
+--> 0 assigned students: 
+ [] 
+
+ResourceNeg: Mesos Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center, Hindman et al, NSDI, 2011. 
+--> 0 assigned students: 
+ [] 
+
+ResourceNeg: DRF Dominant Resource Fairness: Fair Allocation of Multiple Resource Types, Ghodsi et al, NSDI, 2011. 
+--> 0 assigned students: 
+ [] 
+
+Scheduling: Packing (Carbyne:) Altruistic Scheduling in Multi-Resource Clusters. TODO 
+--> 1 assigned students: 
+ ['PARIDHI SINGHAL'] 
+
+Scheduling: Packing (Tetris:) Multi-Resource Packing for Cluster Schedulers, Grandl et al, SIGCOMM, 2014. 
+--> 1 assigned students: 
+ ['PARIDHI SINGHAL'] 
+
+Scheduling: Packing Quincy: Fair Scheduling for Distributed Computing Clusters. Isard et. al, SOSP, 2009. 
+--> 0 assigned students: 
+ [] 
+
+Scheduling: Re-Planning Dynamic Query Re-Planning using QOOP. Mahajan et. al, OSDI, 2018. 
+--> 3 assigned students: 
+ ['Simar Gadhoke', 'student_1', 'student_2'] 
+
+Scheduling: Threads Arachne: Core-Aware Thread Management. Qin et. al, OSDI, 2018. 
+--> 3 assigned students: 
+ ['Simar Gadhoke', 'david porter', 'student_0'] 
+
+Scheduling: Cache RobinHood: Tail Latency Aware Caching – Dynamic Reallocation from Cache-Rich to Cache-Poor. Berger et. al, OSDI, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Execution: Spark Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing, Zaharia et al, NSDI, 2012. 
+--> 0 assigned students: 
+ [] 
+
+Execution: Tez Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications, Saha et al, SIGMOD, 2015. 
+--> 0 assigned students: 
+ [] 
+
+Execution: F2 Fast and Flexible Analytics with F2, Grandl et al, 2017. 
+--> 3 assigned students: 
+ ['Simar Gadhoke', 'student_2', 'student_3'] 
+
+Execution: Flare Flare: Optimizing Apache Spark with Native Compilation for Scale-Up Architectures and Medium-Size Data. Essertel et. al, OSDI, 2018. 
+--> 2 assigned students: 
+ ['Claudio Montanari', 'Simar Gadhoke'] 
+
+Execution: Transactions Obladi: Oblivious Serializable Transactions in the Cloud. Crooks et. al, OSDI, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Execution: LoadBalancing1 Ananta: Cloud Scale Load Balancing. Patel et. al, SIGCOMM, 2013. 
+--> 1 assigned students: 
+ ['Suboor Jamal'] 
+
+Execution: LoadBalancing2 Duet: Cloud Scale Load Balancing with Hardware and Software. Gandhi et. al, SIGCOMM, 2014. 
+--> 1 assigned students: 
+ ['Suboor Jamal'] 
+
+Execution: LoadBalancing3 SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs, Miao et. al, SIGCOMM, 2017. 
+--> 0 assigned students: 
+ [] 
+
+SQL: SparkSQL Spark SQL: Relational Data Processing in Spark, Armburst et al, SIGMOD, 2015. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Simar Gadhoke'] 
+
+SQL: Hive Major technical advancements in Apache Hive, Huai et al, SIGMOD, 2014. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Rishi Raj'] 
+
+SQL: Impala Impala: A Modern, Open-Source SQL Engine for Hadoop. Kornacker et. al, CIDR, 2015. 
+--> 3 assigned students: 
+ ['Simar Gadhoke', 'Rishi Raj', 'student_1'] 
+
+SQL: Dremel Dremel: Interactive Analysis of Web-Scale Datasets. Melnik et. al, VLDB, 2010. 
+--> 0 assigned students: 
+ [] 
+
+SQL: Trill Trill: A High-Performance Incremental Query Processor for Diverse Analytics. Chandramouli et. al, VLDB, 2014. 
+--> 0 assigned students: 
+ [] 
+
+SQL: SIMD Rethinking SIMD Vectorization for In-Memory Databases. Polychroniou et. al, SIGMOD, 2015. 
+--> 0 assigned students: 
+ [] 
+
+SQL: Joins Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited. Balkesen et. al, VLDB, 2013. 
+--> 0 assigned students: 
+ [] 
+
+GeoDistributed: Clarinet Clarinet: WAN-Aware Optimization for Analytics Queries, Viswanathan et al, OSDI, 2016. 
+--> 3 assigned students: 
+ ['Simar Gadhoke', 'student_3', 'student_4'] 
+
+GeoDistributed: Geode Global Analytics in the Face of Bandwidth and Regulatory Constraints, Vulimiri et al, NSDI, 2015. 
+--> 0 assigned students: 
+ [] 
+
+AdHoc: TAG TAG: a Tiny AGgregation Service for Ad-Hoc Sensor Networks. Madden et. al, OSDI, 2002. 
+--> 2 assigned students: 
+ ['student_3', 'student_4'] 
+
+Streaming: Storm Storm @Twitter , Toshniwal et al, SIGMOD, 2014. 
+--> 1 assigned students: 
+ ['Rishi Raj'] 
+
+Streaming: Heron Twitter Heron: Stream Processing at Scale, Kulkarni et al, SIGMOD, 2015. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: FacebookStreaming Realtime Data Processing at Facebook. Chen et. al, SIGMOD, 2016. 
+--> 3 assigned students: 
+ ['Liyuan Chen', 'Simar Gadhoke', 'Rishi Raj'] 
+
+Streaming: SparkStreaming Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Zaharia et al, SOSP, 2013. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: Flink Apache Flink: Stream and Batch Processing in a Single Engine, Carbone et al, Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, 2015. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: Drizzle Drizzle: Fast and Adaptable Stream Processing at Scale. Venkataraman et. al, SOSP, 2017. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: Chi Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems. Mai et. al, PVLDB, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: Gloss Gloss: Seamless Live Reconfiguration and Reoptimization of Stream Programs. Rajadurai et. al, ASPLOS, 2018. 
+--> 1 assigned students: 
+ ['student_4'] 
+
+QMS: Kafka Kafka Distributed Messaging System for Log Processing, Kreps et al, NetDB Workshop, 2011. Also read this comparison of widely used Queuing Messaging Processing Systems. 
+--> 1 assigned students: 
+ ['Claudio Montanari'] 
+
+Streaming: rStreams StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, Lin et al, NSDI, 2016. 
+--> 0 assigned students: 
+ [] 
+
+Streaming: Dataflow The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing. Akidau et. al, VLDB, 2015. 
+--> 1 assigned students: 
+ ['Amogh Venkatesh'] 
+
+Streaming: Aurora Aurora: a new model and architecture for data stream management. Abadi et. al, VLDB, 2003. 
+--> 1 assigned students: 
+ ['Amogh Venkatesh'] 
+
+Streaming/Execution: Naiad Naiad: A Timely Dataflow System, Murray et al, SOSP, 2013. 
+--> 3 assigned students: 
+ ['david porter', 'student_0', 'student_1'] 
+
+Streaming: Scaling Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows. Kalavri et. al, OSDI, 2018. 
+--> 3 assigned students: 
+ ['student_2', 'student_3', 'student_4'] 
+
+GraphProc: Pregel Pregel: A System for Large-Scale Graph Processing, Malewicz et al, SIGMOD, 2010. 
+--> 2 assigned students: 
+ ['student_3', 'student_4'] 
+
+GraphProc: TAO TAO: Facebook’s Distributed Data Store for the Social Graph. Bronson et. al, USENIX ATC, 2013. 
+--> 0 assigned students: 
+ [] 
+
+GraphProc: PowerGraph PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs, Gonzalez et al, OSDI, 2012. 
+--> 3 assigned students: 
+ ['student_2', 'student_3', 'student_4'] 
+
+GraphProc: GraphX GraphX: Graph Processing in a Distributed Dataflow Framework, Gonzalez et al, OSDI, 2014. 
+--> 1 assigned students: 
+ ['Amogh Venkatesh'] 
+
+GraphProc: Arabesque Arabesque: A System for Distributed Graph Mining. Teixeira et. al, SOSP, 2015. 
+--> 0 assigned students: 
+ [] 
+
+GraphProc: RDF Fast and Concurrent RDF Queries with RDMA-based Distributed Graph Exploration. Shi et. al, OSDI, 2016. 
+--> 1 assigned students: 
+ ['Amogh Venkatesh'] 
+
+GraphProc: ASAP ASAP: Fast, Approximate Pattern Mining at Scale. Iyer et. al, OSDI, 2018. 
+--> 0 assigned students: 
+ [] 
+
+GraphProc: Grappa Grappa: A Latency-Tolerant Runtime for Large-Scale Irregular Applications. Nelson et. al, USENIX ATC, 2015. 
+--> 0 assigned students: 
+ [] 
+
+GraphProc: Facebook One Trillion Edges: Graph Processing at Facebook-Scale. Ching et. al, VLDB, 2015. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Claudio Montanari'] 
+
+Search: Google The anatomy of a large-scale hypertextual Web search engine. Brin and Page, Computer Networks and ISDN Systems, 1998. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Bhuvan Jain', 'Claudio Montanari'] 
+
+Social: FacebookAnalytics Data warehousing and analytics infrastructure at Facebook. Thusoo et. al, SIGMOD, 2010. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Suboor Jamal', 'Bhuvan Jain'] 
+
+Social: FacebookPhoto Finding a needle in Haystack: Facebook’s photo storage. Beaver et. al, OSDI, 2010. 
+--> 3 assigned students: 
+ ['Sidhant Pani', 'Suboor Jamal', 'Liyuan Chen'] 
+
+Social: Unicorn Unicorn: A System for Searching the Social Graph. Curtiss et. al, VLDB, 2013. 
+--> 3 assigned students: 
+ ['Bhuvan Jain', 'Liyuan Chen', 'david porter'] 
+
+Monitor: Pivot Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems. Mace et. al, SOSP, 2015. 
+--> 0 assigned students: 
+ [] 
+
+Monitor: Analytics Making Sense of Performance in Data Analytics Frameworks. Ousterhout et. al, NSDI, 2015. 
+--> 3 assigned students: 
+ ['Liyuan Chen', 'david porter', 'student_0'] 
+
+Monitor: COZ COZ: Finding Code that Counts with Causal Profiling. Curtsinger et. al, USENIX ATC, 2016. 
+--> 0 assigned students: 
+ [] 
+
+Monitor: Scuba Scuba: Diving into Data at Facebook. Abraham et. al, VLDB, 2013. 
+--> 3 assigned students: 
+ ['Liyuan Chen', 'student_1', 'student_2'] 
+
+Monitor: Imbalance Characterizing Load Imbalance in Real-World Networked Caches. Huanag et. al, HotNets, 2014. 
+--> 3 assigned students: 
+ ['student_0', 'student_1', 'student_2'] 
+
+Monitor: End-to-End The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services., Chow et. al, OSDI, 2014. 
+--> 0 assigned students: 
+ [] 
+
+Monitor: Consistency Existential Consistency: Measuring and Understanding Consistency at Facebook. Lu et. al, OSDI, 2015. 
+--> 3 assigned students: 
+ ['david porter', 'student_0', 'student_1'] 
+
+Video: Chameleon Chameleon: Scalable Adaptation of Video Analytics. Jiang et. al, SIGCOMM, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Video: Focus Focus: Querying Large Video Datasets with Low Latency and Low Cost. Hsieh et. al, OSDI, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Video: NoScope NoScope: Optimizing Neural Network Queries over Video at Scale. Kang et. al, VLDB, 2017. 
+--> 0 assigned students: 
+ [] 
+
+Video: TinyThreads Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads. Fouladi et. al, NSDI, 2017. 
+--> 0 assigned students: 
+ [] 
+
+Video: SVE SVE: Distributed Video Processing at Facebook Scale. Huang et. al, SOSP, 2017. 
+--> 1 assigned students: 
+ ['Claudio Montanari'] 
+
+Runtime: Weld Weld: A Commom Runtime for High Performance Data Analytics, Palkar et al, CIDR, 2017. 
+--> 0 assigned students: 
+ [] 
+
+DeepLearning: DeepXplore DeepXplore: Automated Whitebox Testing of Deep Learning Systems, Pei et al, SOSP, 2017. 
+--> 0 assigned students: 
+ [] 
+
+Serverless: PyWren Occupy the Cloud: Distributed Computing for the 99%, Jonas et al, SoCC, 2017. 
+--> 1 assigned students: 
+ ['Liyuan Chen'] 
+
+Serverless: OpenLambda Serverless Computation with OpenLambda. Hendrickson et. al, HotCloud, 2016. 
+--> 3 assigned students: 
+ ['Suboor Jamal', 'Liyuan Chen', 'Amogh Venkatesh'] 
+
+Serverless: Pocket Pocket: Elastic Ephemeral Storage for Serverless Analytics. Klimovic et. al, OSDI, 2018. 
+--> 3 assigned students: 
+ ['Suboor Jamal', 'david porter', 'student_0'] 
+
+Approx: BlinkDB BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data, Agarwal et al, Eurosys, 2013. 
+--> 0 assigned students: 
+ [] 
+
+Approx: BlinkML BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees. Park et. al, SIGMOD, 2019. 
+--> 0 assigned students: 
+ [] 
+
+Approx: Quickr Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters. Kandula et. al, SIGMOD, 2016. 
+--> 0 assigned students: 
+ [] 
+
+RDMA: FaRM FaRM: Fast Remote Memory. Dragojevic et. al, NSDI, 2014. 
+--> 0 assigned students: 
+ [] 
+
+RDMA: FaRM2 No compromises: distributed transactions with consistency, availability, and performance. Dragojevic et. al, SOSP, 2015. 
+--> 0 assigned students: 
+ [] 
+
+RDMA: FaSST FaSST: Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs. Kalia et. al, OSDI, 2016. 
+--> 0 assigned students: 
+ [] 
+
+RDMA: Locks Distributed Lock Management with RDMA: Decentralization without Starvation. Yoon et. al, SIGMOD, 2018. 
+--> 2 assigned students: 
+ ['student_3', 'student_4'] 
+
+RDMA: Infiniswap Efficient Memory Disaggregation with Infiniswap. Gu et. al, NSDI, 2017. 
+--> 0 assigned students: 
+ [] 
+
+RDMA: Databases Accelerating Relational Databases by Leveraging Remote Memory and RDMA. Li et. al, SIGMOD, 2016. 
+--> 3 assigned students: 
+ ['Suboor Jamal', 'student_1', 'student_2'] 
+
+RDMA: FastNetworks Remote Memory in the Age of Fast Networks. Aguilera et. al, SoCC, 2017. 
+--> 0 assigned students: 
+ [] 
+
+ML: Facebook Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective, Hazelwood et. al, HPCA, 2018. 
+--> 1 assigned students: 
+ ['Amogh Venkatesh'] 
+
+ML: TensorFlow TensorFlow: A System for Large-Scale Machine Learning, Abadi et al, OSDI, 2016. 
+--> 0 assigned students: 
+ [] 
+
+ML: TPU In-Datacenter Performance Analysis of a Tensor Processing Unit. Jouppi et. al, ISCA, 2017. 
+--> 3 assigned students: 
+ ['Claudio Montanari', 'david porter', 'student_0'] 
+
+Hardware: Catapult A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services. Putnam et. al, ISCA, 2014. 
+--> 0 assigned students: 
+ [] 
+
+Hardware: Strata Strata: A Cross Media File System. Kwon et. al, SOSP, 2017. 
+--> 0 assigned students: 
+ [] 
+
+Offload: Floem Floem: A Programming System for NIC-Accelerated Network Applications. Phothilimthana et. al, OSDI, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Offload: iPipe iPipe: A Framework for Building Datacenter Applications Using In-networking Processors. Liu et. al, 2018. 
+--> 0 assigned students: 
+ [] 
+
+Offload: Access Direct Universal Access: Making Data Center Resources Available to FPGA. Shu et. al, NSDI, 2019. 
+--> 0 assigned students: 
+ [] 
+
+Misc: OneSize “One Size Fits All”: An Idea Whose Time Has Come and Gone. Stonebraker and Çetintemel, ICDE, 2005. 
+--> 0 assigned students: 
+ [] 
+

@@ -4,9 +4,9 @@ from random import shuffle
 import sys
 
 
-with open('paper_reviews.txt', 'w') as f:
+with open('paper_presentation.txt', 'w') as f:
 
-    dt = pd.read_csv('paper_reviews.csv', index_col=0).to_dict()
+    dt = pd.read_csv('presentation.csv', index_col=0).to_dict()
 
     # for each student, look if they selected paper
     papersToStudents = {el:[] for el in master.split(';')}
@@ -36,7 +36,7 @@ with open('paper_reviews.txt', 'w') as f:
         #iterate through the papers to see if the students chose, then add the student to the papersToStudents.
             try:
                 if studentsToPreferredPapers[student][paper] == True:
-                    if len(papersToStudents[paper])<3 and len(studentsToPapers[student])<8:
+                    if len(papersToStudents[paper])<1 and len(studentsToPapers[student])<1:
                         papersToStudents[paper].append(student)
                         studentsToPapers[student].append(paper)
             except:
@@ -50,7 +50,7 @@ with open('paper_reviews.txt', 'w') as f:
     #students that did not submit will be assigned to the front of the reading list.
     for paper in randomPapers:
         for student in studentsLazy:
-            if len(papersToStudents[paper])<3 and len(studentsToPapers[student])<8:
+            if len(papersToStudents[paper])<1 and len(studentsToPapers[student])<1:
                 papersToStudents[paper].append(student)
                 studentsToPapers[student].append(paper)
 
