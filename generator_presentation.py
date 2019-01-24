@@ -1,5 +1,5 @@
 import pandas as pd
-from master_dump import master
+from master_dump_presentations import master_pres
 from random import shuffle
 import sys
 
@@ -9,7 +9,7 @@ with open('paper_presentation.txt', 'w') as f:
     dt = pd.read_csv('presentation.csv', index_col=0).to_dict()
 
     # for each student, look if they selected paper
-    papersToStudents = {el:[] for el in master.split(';')}
+    papersToStudents = {el:[] for el in master_pres.split(';')}
 
 
     print('\n \n \n \n', "TOTAL NUMBER OF PAPERS ON THE LIST -> ", len(papersToStudents), '\n \n \n \n', file=f)
